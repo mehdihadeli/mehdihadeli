@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is MicroServices Framework
 - 📃 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
-- 📫 How to reach me: @mehdi_hadeli
+- 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
