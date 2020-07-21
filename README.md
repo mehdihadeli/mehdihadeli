@@ -7,7 +7,6 @@
   <a href="http://dotnetuniversity.com">Blog</a> •
   <br />
 </p>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is MicroServices Framework
 - 📃 I blog here: http://dotnetuniversity.com/
