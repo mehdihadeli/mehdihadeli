@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/sponsors/mehdihadeli">💖 Support me at Github Sponsors</a> •
   <a href="https://twitter.com/mehdi_hadeli">Twitter</a> •
   <a href="https://www.linkedin.com/in/mehdihadeli/">Linkedin</a> •
   <a href="http://dotnetuniversity.com">Blog</a> •
