@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-<!--
-**mehdihadeli/mehdihadeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+  <a href="https://github.com/sponsors/mehdihadeli">💖 Support me at Github Sponsors</a> •
+  <a href="https://twitter.com/mehdi_hadeli">Twitter</a> •
+  <a href="https://www.linkedin.com/in/mehdihadeli/">Linkedin</a> •
+  <a href="http://dotnetuniversity.com">Blog</a> •
+  <br />
+</p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is MicroServices Framework
+- 📃 I blog here: http://dotnetuniversity.com/
+- 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
+- 📫 How to reach me: @mehdi_hadeli
+- 👯 I’m looking to collaborate on: Microservices projects
+
