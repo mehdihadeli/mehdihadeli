@@ -13,3 +13,4 @@
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdihadeli)](https://github.com/mehdihadeli/github-readme-stats)
