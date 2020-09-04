@@ -8,15 +8,11 @@
  </a>
 </p>
 
-<p align="center">
- 
- • <a href="https://twitter.com/mehdi_hadeli">Twitter</a> 
- • <a href="https://www.linkedin.com/in/mehdihadeli/">Linkedin</a> 
- • <a href="http://dotnetuniversity.com">Blog</a> 
-  <br />
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
 </p>
-
-#### Professional skills:
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
