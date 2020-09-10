@@ -18,8 +18,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg" alt="javascript" width="40" height="40" />
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+ <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+ <img src="https://img.icons8.com/color/48/000000/travis-ci.png"/>
 </p>
 
 - 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is MicroServices Framework
