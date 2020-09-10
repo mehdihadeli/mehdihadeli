@@ -13,12 +13,13 @@
   Professional skills
   </strong>
 </p>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<p align="center"> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg" alt="javascript" width="40" height="40" />
 </p>
 
 - 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is MicroServices Framework
@@ -27,4 +28,6 @@
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdihadeli)](https://github.com/mehdihadeli/github-readme-stats)
+</p>
