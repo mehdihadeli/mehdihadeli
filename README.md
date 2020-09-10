@@ -1,12 +1,10 @@
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-<p align="center">
- <a href="https://github.com/mehdihadeli" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/>
- </a> 
- <a href="https://linkedin.com/in/mehdihadeli" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
- </a>
-</p>
+[![](https://vistr.dev/badge?repo=mehdihadeli&corners=square)](https://github.com/mehdihadeli/vistr.dev)
+[![](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
+[![](https://img.shields.io/badge/-@mehdihadeli-%23181717?style=flat-square&logo=github)](https://github.com/mehdihadeli)
+[![](https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli)](https://www.linkedin.com/in/mehdihadeli/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=dotnetuniversity.com&url=https://dotnetuniversity.com)](https://dotnetuniversity.com)
 
 <p align="center"> 
  <strong>
