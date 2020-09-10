@@ -29,5 +29,5 @@
 - 👯 I’m looking to collaborate on: Microservices projects
 
 <p align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdihadeli)](https://github.com/mehdihadeli/github-readme-stats)
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
 </p>
