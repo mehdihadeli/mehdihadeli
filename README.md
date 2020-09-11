@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
  <a href="https://dotnetuniversity.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/-dotnetuniversity.com-blue?color=0ab9e6&style=flat-square&up_message=dotnetuniversity.com&url=https://dotnetuniversity.com" />
+   <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=dotnetuniversity.com&url=https://dotnetuniversity.com" />
  </a>
 </p>
 
@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/48/000000/travis-ci.png"/>
+  <img src="https://img.icons8.com/color/48/000000/travis-ci.png" alt="travis"/>
 </p>
 
 - 🔭 I’m currently working on [https://github.com/mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) that is a MicroServices Framework
