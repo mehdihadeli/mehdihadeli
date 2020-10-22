@@ -74,6 +74,9 @@
   <a href="https://istio.io">
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://www.envoyproxy.io">
+    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://www.elastic.co">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
   </a>
