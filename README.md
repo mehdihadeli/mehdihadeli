@@ -17,6 +17,8 @@
 
 ---
 
+I’m a software engineer with +10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog (https://dotnetuniversity.com), I write about everything that currently excites me like .NET, Microservices and DDD. I’m very focused on the new technologies and concepts related to Microservice and Cloud Architecture and try to learn more about them because I love it.
+
 ## Main Projects
 - 🐉 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 - 🐿️ [Online-Store-Modular-Monolith](https://github.com/mehdihadeli/Online-Store-Modular-Monolith): Implementing an online store Modular Monolith application with Domain-Driven Design and CQRS.
