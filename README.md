@@ -82,6 +82,9 @@ I try to contribute and develop various open source projects, when time allows. 
   <a href="https://www.envoyproxy.io">
     <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
+   <a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 <br/>
 
