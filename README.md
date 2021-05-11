@@ -17,15 +17,21 @@
 
 ---
 
-I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
+> I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
-## Main Projects
+#### Main open source projects
 - 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 - 🛒 [Online-Store-Modular-Monolith](https://github.com/mehdihadeli/Online-Store-Modular-Monolith): Implementing an online store Modular Monolith application with Domain-Driven Design and CQRS.
 - 📬 [Awesome .Net Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education): A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
 - 📬 [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 
-## Trivia
+#### 📙 Recent blog posts
+- [Weekly .Net Tech Stack - #2](https://dotnetuniversity.com/weekly-dotnet-tech-stack-2/)
+- [Weekly .Net Tech Stack - #1](https://dotnetuniversity.com/weekly-dotnet-tech-stack-1/)
+- [JWT Authentication in ASP .Net Core with an Identity Provider - Part II](https://dotnetuniversity.com/jwt-authentication-in-net-core-part2/)
+- [JWT Authentication in ASP .Net Core with an Identity Provider - Part I](https://dotnetuniversity.com/jwt-authentication-in-asp-net-core/)
+
+#### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
