@@ -93,6 +93,3 @@ I’m a software engineer with 10 years of experience in developing and designin
 
 ---
 
-<p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
-</p>
