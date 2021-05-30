@@ -91,5 +91,8 @@ I try to contribute and develop various open source projects, when time allows. 
 </p>
 <br/>
 
----
+<p align="center">
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
+</p>
+
 
