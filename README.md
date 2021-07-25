@@ -31,11 +31,8 @@ I try to contribute and develop various open source projects, when time allows. 
 - 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 
 #### 📙 Recent blog posts
-- [Creating Microservices in .Net Core with MicroBootstrap Library](https://dotnetuniversity.com/creating-microservices-in-net-core/)
-- [Weekly .Net Tech Stack - #2](https://dotnetuniversity.com/weekly-dotnet-tech-stack-2/)
-- [Weekly .Net Tech Stack - #1](https://dotnetuniversity.com/weekly-dotnet-tech-stack-1/)
-- [JWT Authentication in ASP .Net Core with an Identity Provider - Part II](https://dotnetuniversity.com/jwt-authentication-in-net-core-part2/)
-- [JWT Authentication in ASP .Net Core with an Identity Provider - Part I](https://dotnetuniversity.com/jwt-authentication-in-asp-net-core/)
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 #### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
