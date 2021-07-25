@@ -32,6 +32,18 @@ I try to contribute and develop various open source projects, when time allows. 
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+#### [Creating Microservices in .Net Core with MicroBootstrap Library](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;creating-microservices-in-net-core&#x2F;) 
+*MicroBoostrap is an open source framework in order to develop a microservices project in the fastest and easiest way in .Net Core.*
+#### [Weekly .Net Tech Stack - #2](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-2&#x2F;) 
+*Stay up to date with the latest news in the .NET world: Entity Framework, DDD, .NET Core, .Net 5, WEB API, ASP.NET, gRPC, .NET, Tracing, Modular Monolith, Vertical Slices.
+
+Every week, I share my search and knowledge about .Net. They include everything I can dig up on the internet,*
+#### [Weekly .Net Tech Stack - #1](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-1&#x2F;) 
+*Stay up to date with the latest news in the .NET world: Entity Framework, GitHub Action, Azure DevOps, DDD, .NET Core, ASP.NET, gRPC, Tracing, Clean Architecture.*
+#### [JWT Authentication in ASP .Net Core with an Identity Provider - Part II](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-net-core-part2&#x2F;) 
+*I this article we implement JWT Authentication in ASP .Net Core with Using an Identity Provider for issuing token, authentication and authorization.*
+#### [JWT Authentication in ASP .Net Core with an Identity Provider - Part I](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-asp-net-core&#x2F;) 
+*using jwt authentication in asp.net core for authenticating and authorizing users with a jwt token for their permissions with using a Identity server*
 <!--END_SECTION:feed-->
 
 #### Trivia
