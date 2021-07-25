@@ -30,7 +30,7 @@ I try to contribute and develop various open source projects, when time allows. 
 - 📬 [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 
-#### 📙 Recent blog posts
+#### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 #### [Creating Microservices in .Net Core with MicroBootstrap Library](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;creating-microservices-in-net-core&#x2F;) 
 *MicroBoostrap is an open source framework in order to develop a microservices project in the fastest and easiest way in .Net Core.*
