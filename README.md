@@ -32,6 +32,11 @@ I try to contribute and develop various open source projects, when time allows. 
 
 #### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Creating Microservices in .Net Core with MicroBootstrap Library](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;creating-microservices-in-net-core&#x2F;)
+* [Weekly .Net Tech Stack - #2](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-2&#x2F;)
+* [Weekly .Net Tech Stack - #1](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-1&#x2F;)
+* [JWT Authentication in ASP .Net Core with an Identity Provider - Part II](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-net-core-part2&#x2F;)
+* [JWT Authentication in ASP .Net Core with an Identity Provider - Part I](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-asp-net-core&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Trivia
