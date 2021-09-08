@@ -27,7 +27,7 @@ I try to contribute and develop various open source projects, when time allows. 
 
 - 🛒 [store-modular-monolith](https://github.com/mehdihadeli/store-modular-monolith): Implementing an online store Modular Monolith application with Domain-Driven Design and CQRS.
 - 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .net core.
-- 🎮 game-microservices](https://github.com/mehdihadeli/game-microservices): This project is a leader board gaming microservices with using some cloud native tools and technologies based on .net core.
+- 🎮 [game-microservices](https://github.com/mehdihadeli/game-microservices): This project is a leader board gaming microservices with using some cloud native tools and technologies based on .net core.
 - 📬 [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education): A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
 - 📬 [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 
