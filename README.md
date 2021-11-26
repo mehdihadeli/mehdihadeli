@@ -30,6 +30,7 @@ I try to contribute and develop various open source projects, when time allows. 
 - 🎮 [game-microservices](https://github.com/mehdihadeli/game-microservices): This project is a leader board gaming microservices with using some cloud native tools and technologies based on .net core.
 - 📬 [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - 📬 [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education): A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
+- 📺 [movie search application](https://github.com/mehdihadeli/movie-search-app): A simple movie search app based on TMDB APIs and YouTube APIs to search movies and tv-show and related trailers with using .Net Core, vertical slice architecture, MediatR, CQRS and some resiliency mechanism.
 - 📘 [thesaurus-application](https://github.com/mehdihadeli/thesaurus-application): A thesaurus app for defining and searching some words and their meanings, synonyms built on top of a vertical slice architecture, CQRS, MongoDB and unit and integration testing in backend and using angular in frontend.
 - 🗨️ [distributed-chat-system](https://github.com/mehdihadeli/distributed-chat-system): A simple distributed chat system based on .net core, signalr and NATS messaging system.
 
