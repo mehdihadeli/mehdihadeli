@@ -19,7 +19,7 @@
 </p>
 
 
-> I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net and Angular and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
+> I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
 #### 💻 Open Source
 
@@ -45,7 +45,7 @@ I try to contribute and develop various open source projects, when time allows. 
 
 #### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
-- 💬 Ask me about Clean Architecture, MicroServices, DDD, Event Sourcing, CQRS, .NET Core and Angular
+- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core and Golang
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
@@ -66,6 +66,9 @@ I try to contribute and develop various open source projects, when time allows. 
   </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+   <a href="https://go.dev/">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
