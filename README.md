@@ -45,7 +45,7 @@ I try to contribute and develop various open source projects, when time allows. 
 
 #### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
-- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core and Golang
+- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
