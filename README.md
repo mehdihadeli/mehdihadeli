@@ -26,13 +26,12 @@
 I try to contribute and develop various open source projects, when time allows. Here are some examples:
 
 - 🛒 [store-modular-monolith](https://github.com/mehdihadeli/store-modular-monolith): Implementing an online store Modular Monolith application with Domain-Driven Design and CQRS.
-- 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .net core.
-- 📺 [movie search application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app based on TMDB APIs and YouTube APIs to search movies and tv-show and related trailers with using .Net Core, vertical slice architecture, MediatR, CQRS and some resiliency mechanism.
-- 🎮 [game-microservices](https://github.com/mehdihadeli/game-microservices): This project is a leader board gaming microservices with using some cloud native tools and technologies based on .net core.
+- 🛍️ [e-commerce-microservices](https://github.com/mehdihadeli/e-commerce-microservices): An e-commerce application based on Microservices Architecture, Vertical Slice Architecture, CQRS pattern, Event Sourcing, Domain Driven Design, Event Driven Architecture, Inbox and Outbox Pattern and using Postgres for write side and MongoDB for read side and etc.
+- 💥 [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap): A Full Stack framework written in .NET Core to speed up your development process in microservices and modular monolith apps. It gathers most widely used frameworks in .NET world and pack them into a simple bootstrap package. 
 - 📬 [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - 📬 [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education): A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
 - 📬 [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies
-- 📘 [thesaurus-application](https://github.com/mehdihadeli/thesaurus-application): A thesaurus app for defining and searching some words and their meanings, synonyms built on top of a vertical slice architecture, CQRS, MongoDB and unit and integration testing in backend and using angular in frontend.
+- 📺 [movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app based on TMDB APIs and YouTube APIs to search movies and tv-show and related trailers with using .Net 6, Vertical Slice Architecture, MediatR, CQRS and some resiliency mechanism.
 - 🗨️ [distributed-chat-system](https://github.com/mehdihadeli/distributed-chat-system): A simple distributed chat system based on .net core, signalr and NATS messaging system.
 
 #### 📙 Recent Blog Posts
