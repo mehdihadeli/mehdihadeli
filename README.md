@@ -44,6 +44,7 @@ I try to contribute and develop various open source projects, when time allows. 
 <!--END_SECTION:feed-->
 
 #### Trivia
+- 🔭 I’m currently working on [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
