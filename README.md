@@ -21,19 +21,6 @@
 
 > I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
-#### 💻 Open Source
-
-I try to contribute and develop various open source projects, when time allows. Here are some examples:
-
-- 💥 [micro-bootstrap](https://github.com/mehdihadeli/MicroBootstrap): A Full Stack framework written in .NET Core to speed up your development process in microservices and modular monolith apps. It gathers most widely used frameworks in .NET world and pack them into a simple bootstrap package. 
-- 🛍️ [e-commerce-microservices](https://github.com/mehdihadeli/e-commerce-microservices): 🛍️ An e-commerce Microservices based on Domain Driven Design, Vertical Slice Architecture, CQRS pattern, Event Driven Architecture.
-- 🛒 [store-modular-monolith](https://github.com/mehdihadeli/store-modular-monolith): Implementing an online store Modular Monolith application with Domain-Driven Design and CQRS.
-- 📬 [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
-- 📬 [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education): A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
-- 📬 [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies
-- 📺 [movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app based on TMDB APIs and YouTube APIs to search movies and tv-show and related trailers with using .Net 6, Vertical Slice Architecture, MediatR, CQRS and some resiliency mechanism.
-- 🗨️ [distributed-chat-system](https://github.com/mehdihadeli/distributed-chat-system): A simple distributed chat system based on .net core, signalr and NATS messaging system.
-
 #### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 * [Creating Microservices in .Net Core with MicroBootstrap Library](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;creating-microservices-in-net-core&#x2F;)
