@@ -21,7 +21,26 @@
 
 > I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
-#### 📙 Recent Blog Posts
+My main projects:
+
+- 🧰 [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
+- 🛍️ [ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
+- 🛒 [store-modular-monolith](https://github.com/mehdihadeli/store-modular-monolith)
+- ⚡ [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+- ⚡ [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education)
+- ⚡ [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)
+
+You can also check my [LinkedIn profile](https://www.linkedin.com/in/mehdihadeli/).
+
+## Trivia
+- 🔭 Currently I’m working on [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
+- 📝 I blog here: http://dotnetuniversity.com/
+- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
+- 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
+- 👯 I’m looking to collaborate on: Microservices projects
+
+
+## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 * [Creating Microservices in .Net Core with MicroBootstrap Library](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;creating-microservices-in-net-core&#x2F;)
 * [Weekly .Net Tech Stack - #2](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-2&#x2F;)
@@ -29,13 +48,6 @@
 * [JWT Authentication in ASP .Net Core with an Identity Provider - Part II](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-net-core-part2&#x2F;)
 * [JWT Authentication in ASP .Net Core with an Identity Provider - Part I](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;jwt-authentication-in-asp-net-core&#x2F;)
 <!--END_SECTION:feed-->
-
-#### Trivia
-- 🔭 Currently I’m working on [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
-- 📝 I blog here: http://dotnetuniversity.com/
-- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
-- 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
-- 👯 I’m looking to collaborate on: Microservices projects
 
 ---
 
