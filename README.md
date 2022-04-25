@@ -11,13 +11,12 @@
    <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
  <a href="https://dotnetuniversity.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square" />
+   <img src="https://img.shields.io/badge/dotnetuniversity-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=flat-square" />
  </a>
 </p>
-
 
 > I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
