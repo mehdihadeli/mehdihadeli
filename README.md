@@ -23,12 +23,6 @@
 
 > I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog.
 
-My main projects:
-
-- 🛍️ [ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
-
-You can also check my [LinkedIn profile](https://www.linkedin.com/in/mehdihadeli/).
-
 ## Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
