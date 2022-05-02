@@ -25,9 +25,7 @@
 
 My main projects:
 
-- 🧰 [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
 - 🛍️ [ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
-- 🛒 [store-modular-monolith](https://github.com/mehdihadeli/store-modular-monolith)
 - ⚡ [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - ⚡ [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education)
 - ⚡ [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)
@@ -35,12 +33,10 @@ My main projects:
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/mehdihadeli/).
 
 ## Trivia
-- 🔭 Currently I’m working on [micro-bootstrap](https://github.com/mehdihadeli/micro-bootstrap)
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
-
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
