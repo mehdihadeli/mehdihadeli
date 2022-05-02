@@ -26,9 +26,6 @@
 My main projects:
 
 - 🛍️ [ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
-- ⚡ [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-- ⚡ [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education)
-- ⚡ [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education)
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/mehdihadeli/).
 
