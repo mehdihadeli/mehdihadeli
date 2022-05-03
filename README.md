@@ -31,6 +31,10 @@
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Weekly .Net Tech Stack - #2](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-2&#x2F;)
+* [Weekly .Net Tech Stack - #1](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;weekly-dotnet-tech-stack-1&#x2F;)
+* [Testing .Net Core Code with XUnit- Asserting](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;testing-net-core-code-xunit&#x2F;)
+* [Introduction to Testing Code](https:&#x2F;&#x2F;dotnetuniversity.com&#x2F;introduction-to-testing-code&#x2F;)
 <!--END_SECTION:feed-->
 
 ---
