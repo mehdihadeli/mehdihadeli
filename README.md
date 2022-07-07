@@ -21,7 +21,7 @@
  </a>
 </p>
 
-> I’m a software engineer with 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Driven Architecture and Clean and Vertical Slice Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog and github projects.
+> I’m a software engineer with more than 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Driven Architecture and Clean and Vertical Slice Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog and github projects.
 
 ## Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
