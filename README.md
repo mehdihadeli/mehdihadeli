@@ -31,7 +31,7 @@
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 weeks ago)
 
-#### 🌱 My latest projects
+#### 🧑‍💻 My latest projects
 
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in golang and useful for creating CQRS based applications.
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
@@ -57,7 +57,7 @@
 - [Adding Automapper](https://github.com/mehdihadeli/store-golang-microservices/pull/18) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (6 days ago)
 - [merge develop to main](https://github.com/mehdihadeli/ecommerce-microservices-sample/pull/36) on [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) (1 week ago)
 
-#### Trivia
+#### 🌱 Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
