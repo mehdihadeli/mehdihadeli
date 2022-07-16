@@ -23,7 +23,31 @@
 
 > I’m a software engineer with more than 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Driven Architecture and Clean and Vertical Slice Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog and github projects.
 
-## Trivia
+#### 👨‍💻 Check out what I'm currently working on
+
+{{- range recentRepos 5 }}
+- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
+
+#### ⭐ Recent Stars
+
+{{ range recentStars 5 }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+{{- end }}
+
+#### 📄 Latest blog posts
+
+{{- range rss "https://dotnetuniversity.com/rss/" 3 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+#### 🚀 Latest releases I've contributed to
+
+{{ range recentReleases 5 }}
+- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
+{{- end }}
+
+#### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
@@ -89,5 +113,4 @@
 <p align="center">
   <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
 </p>
-
 
