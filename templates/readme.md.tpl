@@ -23,19 +23,17 @@
 
 > I’m a software engineer with more than 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Driven Architecture and Clean and Vertical Slice Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog and github projects.
 
-#### 👨‍💻 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+{{- end}}
 
-{{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+#### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
 
-#### ⭐ Recent Stars
-
-{{ range recentStars 5 }}
-- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
-{{- end }}
-
-#### 📄 Latest blog posts
+#### 📜 Latest blog posts
 
 {{- range rss "https://dotnetuniversity.com/rss/" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
@@ -46,6 +44,11 @@
 {{ range recentReleases 5 }}
 - [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
+
+#### 🔨 Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 #### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
