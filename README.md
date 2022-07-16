@@ -23,23 +23,23 @@
 
 > I’m a software engineer with more than 10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Driven Architecture and Clean and Vertical Slice Architecture. I mainly develop using .Net, Golang and Microservices but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned in my blog and github projects.
 
-#### 👨‍💻 Check out what I'm currently working on
-- **[mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)** - Mediator pattern implementation in golang and useful for creating CQRS based applications.
-- **[mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices)** - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- **[mehdihadeli/ecommerce-modular-monolith-sample](https://github.com/mehdihadeli/ecommerce-modular-monolith-sample)** - 🪣 A practical e-commerce modular monolith sample, built with .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- **[mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample)** - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- **[mehdihadeli/dotnet-kit](https://github.com/mehdihadeli/dotnet-kit)**
+#### 👷 Check out what I'm currently working on
 
-#### ⭐ Recent Stars
+- [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in golang and useful for creating CQRS based applications. (4 days ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 weeks ago)
 
+#### 🌱 My latest projects
 
-- **[muesli/readme-scribe](https://github.com/muesli/readme-scribe)** - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
-- **[caarlos0/env](https://github.com/caarlos0/env)** - A simple and zero-dependencies library to parse environment variables into structs. (today)
-- **[ixre/go2o](https://github.com/ixre/go2o)** - 基于DDD的o2o的业务模型及基础, 使用Golang&#43;gRPC/Thrift实现 (today)
-- **[volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)** - Generate a Go ORM tailored to your database schema. (1 day ago)
-- **[kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)** - Generate type-safe code from SQL (1 day ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in golang and useful for creating CQRS based applications.
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- [mehdihadeli/ecommerce-modular-monolith-sample](https://github.com/mehdihadeli/ecommerce-modular-monolith-sample) - 🪣 A practical e-commerce modular monolith sample, built with .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- [mehdihadeli/dotnet-kit](https://github.com/mehdihadeli/dotnet-kit)
 
-#### 📄 Latest blog posts
+#### 📜 Latest blog posts
 - [Weekly .Net Tech Stack - #2](https://dotnetuniversity.com/weekly-dotnet-tech-stack-2/) (1 year ago)
 - [Weekly .Net Tech Stack - #1](https://dotnetuniversity.com/weekly-dotnet-tech-stack-1/) (1 year ago)
 
@@ -48,6 +48,14 @@
 
 - [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (3 days ago)
 - [mehdihadeli/ecommerce-microservices-sample @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices-sample/releases/tag/v1.0.3) (2 weeks ago)
+
+#### 🔨 Latest Pull Requests I published
+
+- [ Adding redis repository to products features in the read_service ](https://github.com/mehdihadeli/store-golang-microservices/pull/21) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (1 day ago)
+- [Merge develop to main](https://github.com/mehdihadeli/store-golang-microservices/pull/20) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (1 day ago)
+- [Refactoring Mediator for handling generic](https://github.com/mehdihadeli/store-golang-microservices/pull/19) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (5 days ago)
+- [Adding Automapper](https://github.com/mehdihadeli/store-golang-microservices/pull/18) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (6 days ago)
+- [merge develop to main](https://github.com/mehdihadeli/ecommerce-microservices-sample/pull/36) on [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) (1 week ago)
 
 #### Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
