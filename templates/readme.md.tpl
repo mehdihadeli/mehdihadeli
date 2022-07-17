@@ -28,11 +28,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🧑‍💻 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
 #### 📜 Latest blog posts
 
 {{- range rss "https://dotnetuniversity.com/rss/" 3 }}
