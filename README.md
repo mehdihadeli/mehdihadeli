@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (today)
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 days ago)
-- [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 days ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 day ago)
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
+- [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [mehdihadeli/Go-MediatR @ v0.1.1](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v0.1.1) (today)
-- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (4 days ago)
+- [mehdihadeli/Go-MediatR @ v0.1.1](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v0.1.1) (1 day ago)
+- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (5 days ago)
 - [mehdihadeli/ecommerce-microservices-sample @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices-sample/releases/tag/v1.0.3) (3 weeks ago)
 
 #### 📜 Latest blog posts
@@ -44,9 +44,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [ Adding redis repository to products features in the read_service ](https://github.com/mehdihadeli/store-golang-microservices/pull/21) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (2 days ago)
-- [Merge develop to main](https://github.com/mehdihadeli/store-golang-microservices/pull/20) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (2 days ago)
-- [Refactoring Mediator for handling generic](https://github.com/mehdihadeli/store-golang-microservices/pull/19) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (6 days ago)
+- [ Adding redis repository to products features in the read_service ](https://github.com/mehdihadeli/store-golang-microservices/pull/21) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (3 days ago)
+- [Merge develop to main](https://github.com/mehdihadeli/store-golang-microservices/pull/20) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (3 days ago)
+- [Refactoring Mediator for handling generic](https://github.com/mehdihadeli/store-golang-microservices/pull/19) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (1 week ago)
 - [Adding Automapper](https://github.com/mehdihadeli/store-golang-microservices/pull/18) on [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) (1 week ago)
 - [merge develop to main](https://github.com/mehdihadeli/ecommerce-microservices-sample/pull/36) on [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) (1 week ago)
 
