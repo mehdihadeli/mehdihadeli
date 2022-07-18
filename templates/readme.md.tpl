@@ -28,23 +28,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🚀 Latest releases I've contributed to
-
-{{ range recentReleases 5 }}
-- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
-
-#### 📜 Latest blog posts
-
-{{- range rss "https://dotnetuniversity.com/rss/" 3 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
-
-#### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 🌱 Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
