@@ -31,6 +31,17 @@
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
 - [mehdihadeli/ecommerce-microservices-sample](https://github.com/mehdihadeli/ecommerce-microservices-sample) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
 
+#### 🚀 Latest releases I've contributed to
+
+
+- [mehdihadeli/Go-MediatR @ v0.1.1](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v0.1.1) (1 day ago)
+- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (5 days ago)
+- [mehdihadeli/ecommerce-microservices-sample @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices-sample/releases/tag/v1.0.3) (3 weeks ago)
+
+#### 📜 Latest blog posts
+- [Weekly .Net Tech Stack - #2](https://dotnetuniversity.com/weekly-dotnet-tech-stack-2/) (1 year ago)
+- [Weekly .Net Tech Stack - #1](https://dotnetuniversity.com/weekly-dotnet-tech-stack-1/) (1 year ago)
+
 #### 🌱 Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
@@ -46,9 +57,6 @@
 </p>
 
 <p align="center">
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
@@ -81,12 +89,6 @@
   </a>
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://istio.io">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.envoyproxy.io">
-    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
