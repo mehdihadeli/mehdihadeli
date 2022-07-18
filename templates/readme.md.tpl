@@ -28,6 +28,18 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
+#### 🚀 Latest releases I've contributed to
+
+{{ range recentReleases 5 }}
+- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
+{{- end }}
+
+#### 📜 Latest blog posts
+
+{{- range rss "https://dotnetuniversity.com/rss/" 3 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
 #### 🌱 Trivia
 - 📝 I blog here: http://dotnetuniversity.com/
 - 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
@@ -43,9 +55,6 @@
 </p>
 
 <p align="center">
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
@@ -78,12 +87,6 @@
   </a>
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://istio.io">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.envoyproxy.io">
-    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
