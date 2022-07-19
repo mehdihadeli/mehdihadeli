@@ -86,8 +86,11 @@
    <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"   width="64" height="64"  alt="angular" style="vertical-align:top; margin:4px">
   </a>
-     <a href="">
+  <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="64" height="64"  alt="javascript" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"   width="64" height="64"  alt="javascript" style="vertical-align:top; margin:4px">
   </a>
 </p>
 <br/>
