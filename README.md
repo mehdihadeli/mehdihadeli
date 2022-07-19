@@ -58,40 +58,38 @@
 
 <p align="center">
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="64" height="64"  alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="64" height="64" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="64" height="64" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="64" height="64" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="64" height="64" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://grpc.io/">
-    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" alt="mongodb" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="64" height="64"  alt="docker" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://azure.microsoft.com">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="64" height="64" alt="azure" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64" alt="postgres" style="vertical-align:top; margin:4px">
   </a>
-   <a href="https://www.rabbitmq.com">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"  alt="rabbitmq" style="vertical-align:top; margin:4px">
+   <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"   width="64" height="64"  alt="angular" style="vertical-align:top; margin:4px">
+  </a>
+     <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="64" height="64"  alt="javascript" style="vertical-align:top; margin:4px">
   </a>
 </p>
 <br/>
