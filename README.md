@@ -82,7 +82,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="64" height="64"  alt="docker" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://azure.microsoft.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="64" height="64" alt="azure" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64" height="64" alt="azure" style="vertical-align:top; margin:4px">
   </a>
   <a href="">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64" alt="postgres" style="vertical-align:top; margin:4px">
