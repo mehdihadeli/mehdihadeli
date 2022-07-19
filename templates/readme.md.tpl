@@ -73,11 +73,13 @@
   <a href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" alt="kubernetes" style="vertical-align:top; margin:4px;">
+  </a>
   <a href="https://hub.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" alt="mongodb" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="64" height="64"  alt="docker" style="vertical-align:top; margin:4px">
   </a>
-   <a href="https://azure.microsoft.com">
+  <a href="https://azure.microsoft.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="64" height="64" alt="azure" style="vertical-align:top; margin:4px">
   </a>
   <a href="">
