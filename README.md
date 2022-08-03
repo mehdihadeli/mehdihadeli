@@ -34,8 +34,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [dj-nitehawk/FastEndpoints @ v4.4](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.4) (today)
 - [mehdihadeli/Go-MediatR @ v0.1.1](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v0.1.1) (2 weeks ago)
-- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (3 weeks ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (1 month ago)
 
 #### 📜 Latest blog posts
