@@ -35,7 +35,7 @@
 
 
 - [mehdihadeli/Go-MediatR @ v1.1.3](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.3) (1 day ago)
-- [dj-nitehawk/FastEndpoints @ v4.4](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.4) (1 day ago)
+- [FastEndpoints/Library @ v4.4](https://github.com/FastEndpoints/Library/releases/tag/v4.4) (1 day ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (1 month ago)
 
 #### 📜 Latest blog posts
