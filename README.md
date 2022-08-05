@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/go-mediatr](https://github.com/mehdihadeli/go-mediatr) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 day ago)
-- [mehdihadeli/blog-comments](https://github.com/mehdihadeli/blog-comments) - The blog comments discussions for https://dotnetuniversity.com (1 day ago)
+- [mehdihadeli/go-mediatr](https://github.com/mehdihadeli/go-mediatr) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (today)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 day ago)
+- [mehdihadeli/blog-comments](https://github.com/mehdihadeli/blog-comments) - The blog comments discussions for https://dotnetuniversity.com (1 day ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 days ago)
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (6 days ago)
 
