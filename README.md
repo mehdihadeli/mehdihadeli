@@ -34,7 +34,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [mehdihadeli/Go-MediatR @ v1.1.6](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.6) (4 days ago)
+- [mehdihadeli/Go-MediatR @ v1.1.7](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.7) (today)
 - [FastEndpoints/Library @ v4.4](https://github.com/FastEndpoints/Library/releases/tag/v4.4) (1 week ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (1 month ago)
 
