@@ -25,16 +25,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (today)
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (today)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 day ago)
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (4 days ago)
-- [mehdihadeli/blog-comments](https://github.com/mehdihadeli/blog-comments) - The blog comments discussions for https://dotnetuniversity.com (6 days ago)
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 day ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 day ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 days ago)
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (5 days ago)
+- [mehdihadeli/blog-comments](https://github.com/mehdihadeli/blog-comments) - The blog comments discussions for https://dotnetuniversity.com (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [mehdihadeli/Go-MediatR @ v1.1.7](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.7) (today)
+- [mehdihadeli/Go-MediatR @ v1.1.7](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.7) (1 day ago)
 - [FastEndpoints/Library @ v4.4](https://github.com/FastEndpoints/Library/releases/tag/v4.4) (1 week ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (1 month ago)
 
