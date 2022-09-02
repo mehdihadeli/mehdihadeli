@@ -25,7 +25,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (today)
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 day ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 week ago)
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 week ago)
@@ -35,7 +35,7 @@
 
 
 - [FastEndpoints/Library @ v5.0](https://github.com/FastEndpoints/Library/releases/tag/v5.0) (1 week ago)
-- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (1 week ago)
+- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (2 weeks ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (2 months ago)
 
 #### 📜 Latest blog posts
