@@ -25,8 +25,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/building-blcoks](https://github.com/mehdihadeli/building-blcoks) - Some building blocks for creating .Net apps with minimum infrastructure configurations (1 day ago)
-- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
+- [mehdihadeli/building-blcoks](https://github.com/mehdihadeli/building-blcoks) - Some building blocks for creating .Net apps with minimum infrastructure configurations (2 days ago)
+- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 days ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 week ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 weeks ago)
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (2 weeks ago)
@@ -34,8 +34,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/Library @ v5.1](https://github.com/FastEndpoints/Library/releases/tag/v5.1) (today)
-- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (2 weeks ago)
+- [FastEndpoints/Library @ v5.1](https://github.com/FastEndpoints/Library/releases/tag/v5.1) (1 day ago)
+- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (3 weeks ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (2 months ago)
 
 #### 📜 Latest blog posts
