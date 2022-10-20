@@ -4,22 +4,25 @@
 
 <p align="center"> 
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
-   <img src="https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+ </a>
+  <a href="https://www.youtube.com/c/mehdihadeli" alt="mehdi hadeli's youtube">
+   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://stackoverflow.com/users/581476" alt="mehdi hadeli's stackoverflow">
-   <img src="https://img.shields.io/badge/mehdihadeli-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://github.com/mehdihadeli" alt="mehdi hadeli's github">
-   <img src="https://img.shields.io/badge/-@mehdihadeli-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://www.linkedin.com/in/mehdihadeli" alt="mehdi hadeli's linkedin">
-   <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
  <a href="https://www.mehdihadeli.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/mehdihadeli-FFA500?style=flat-square&logo=rss&logoColor=white" />
+   <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=flat-square" />
+   <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
 
