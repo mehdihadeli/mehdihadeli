@@ -15,8 +15,8 @@
  <a href="https://www.linkedin.com/in/mehdihadeli" alt="mehdi hadeli's linkedin">
    <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
- <a href="https://dotnetuniversity.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/dotnetuniversity-FFA500?style=flat-square&logo=rss&logoColor=white" />
+ <a href="https://www.mehdihadeli.com" alt="mehdi hadeli's blog">
+   <img src="https://img.shields.io/badge/mehdihadeli-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=flat-square" />
@@ -36,13 +36,13 @@
 
 #### 📜 Latest blog posts
 
-{{- range rss "https://dotnetuniversity.com/rss/" 3 }}
+{{- range rss "https://www.mehdihadeli.com/rss/" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
 #### 🌱 Trivia
-- 📝 I blog here: http://dotnetuniversity.com/
-- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
+- 📝 I blog here: https://www.mehdihadeli.com
+- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core, Golang
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
