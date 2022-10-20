@@ -15,8 +15,8 @@
  <a href="https://www.linkedin.com/in/mehdihadeli" alt="mehdi hadeli's linkedin">
    <img src="https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
- <a href="https://dotnetuniversity.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/dotnetuniversity-FFA500?style=flat-square&logo=rss&logoColor=white" />
+ <a href="https://www.mehdihadeli.com" alt="mehdi hadeli's blog">
+   <img src="https://img.shields.io/badge/mehdihadeli-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=flat-square" />
@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/Go-Bus](https://github.com/mehdihadeli/Go-Bus) (today)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (today)
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (today)
-- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (3 days ago)
+- [mehdihadeli/Go-Bus](https://github.com/mehdihadeli/Go-Bus) (1 week ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 week ago)
+- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 weeks ago)
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices sample, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.1](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.1) (4 weeks ago)
-- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (1 month ago)
+- [FastEndpoints/FastEndpoints @ v5.2.1](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.2.1) (5 days ago)
+- [mehdihadeli/Go-MediatR @ v1.1.8](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.8) (2 months ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (3 months ago)
 
 #### 📜 Latest blog posts
@@ -43,8 +43,8 @@
 - [Weekly .Net Tech Stack - #1](https://dotnetuniversity.com/weekly1/) (2 years ago)
 
 #### 🌱 Trivia
-- 📝 I blog here: http://dotnetuniversity.com/
-- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core
+- 📝 I blog here: https://www.mehdihadeli.com
+- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core, Golang
 - 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
 - 👯 I’m looking to collaborate on: Microservices projects
 
