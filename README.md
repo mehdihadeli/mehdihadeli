@@ -6,7 +6,7 @@
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
  </a>
-  <a href="https://www.youtube.com/c/mehdihadeli" alt="mehdi hadeli's youtube">
+  <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://stackoverflow.com/users/581476" alt="mehdi hadeli's stackoverflow">
