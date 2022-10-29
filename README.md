@@ -28,8 +28,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdihadeli/awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A curated list of awesome articles and resources for learning and practicing .Net Core and its related technologies. (today)
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 day ago)
-- [mehdihadeli/awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A curated list of awesome articles and resources for learning and practicing .Net Core and its related technologies. (1 day ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 days ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (6 days ago)
 - [mehdihadeli/Go-Bus](https://github.com/mehdihadeli/Go-Bus) (3 weeks ago)
