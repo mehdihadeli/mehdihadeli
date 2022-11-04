@@ -37,7 +37,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.3.1](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.3.1) (4 days ago)
+- [FastEndpoints/FastEndpoints @ v5.3.2](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.3.2) (today)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (1 week ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (4 months ago)
 - [mehdihadeli/awesome-dotnet-core-education @ 2021.05.03](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases/tag/2021.05.03) (2 years ago)
