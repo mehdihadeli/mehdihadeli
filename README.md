@@ -28,7 +28,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (6 days ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
 - [mehdihadeli/awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A curated list of awesome articles and resources for learning and practicing .Net Core and its related technologies. (1 week ago)
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (1 week ago)
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators (1 week ago)
@@ -37,7 +37,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.3.2](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.3.2) (2 days ago)
+- [FastEndpoints/FastEndpoints @ v5.3.2](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.3.2) (3 days ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (1 week ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.3](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.3) (4 months ago)
 - [mehdihadeli/awesome-dotnet-core-education @ 2021.05.03](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases/tag/2021.05.03) (2 years ago)
