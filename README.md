@@ -28,18 +28,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 day ago)
-- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (2 days ago)
-- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with C#, .Net Core, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (4 days ago)
+- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 days ago)
+- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 days ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (3 days ago)
 - [mehdihadeli/awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A curated list of awesome articles and resources for learning and practicing .Net Core and its related technologies. (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [mehdihadeli/ecommerce-modular-monolith @ v1.0.0](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.0) (1 day ago)
-- [FastEndpoints/FastEndpoints @ v5.4](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.4) (4 days ago)
-- [mehdihadeli/ecommerce-microservices @ v1.0.4](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.4) (5 days ago)
+- [mehdihadeli/ecommerce-microservices @ v1.0.5](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.5) (1 day ago)
+- [mehdihadeli/ecommerce-modular-monolith @ v1.0.0](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.0) (2 days ago)
+- [FastEndpoints/FastEndpoints @ v5.4](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.4) (5 days ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (2 weeks ago)
 - [mehdihadeli/awesome-dotnet-core-education @ 2021.05.03](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases/tag/2021.05.03) (2 years ago)
 
