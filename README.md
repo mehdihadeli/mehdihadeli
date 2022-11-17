@@ -28,10 +28,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application) - 🎬 A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies. (today)
 - [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
 - [mehdihadeli/building-blcoks](https://github.com/mehdihadeli/building-blcoks) - Some building blocks for creating .Net apps with minimum infrastructure configurations (1 day ago)
 - [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
-- [mehdihadeli/awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A curated list of awesome articles and resources for learning and practicing .Net Core and its related technologies. (2 days ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
