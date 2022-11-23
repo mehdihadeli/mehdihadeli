@@ -28,17 +28,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 day ago)
-- [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application) - 🎬 A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies. (5 days ago)
-- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (6 days ago)
-- [mehdihadeli/building-blcoks](https://github.com/mehdihadeli/building-blcoks) - Some building blocks for creating .Net apps with minimum infrastructure configurations (6 days ago)
+- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (2 days ago)
+- [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application) - 🎬 A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies. (6 days ago)
+- [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith) - 🪣 A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. (1 week ago)
+- [mehdihadeli/building-blcoks](https://github.com/mehdihadeli/building-blcoks) - Some building blocks for creating .Net apps with minimum infrastructure configurations (1 week ago)
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.4.1](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.4.1) (4 days ago)
-- [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (6 days ago)
+- [FastEndpoints/FastEndpoints @ v5.4.1](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.4.1) (5 days ago)
+- [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (1 week ago)
 - [mehdihadeli/ecommerce-modular-monolith @ v1.0.1](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.1) (1 week ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (3 weeks ago)
 - [mehdihadeli/awesome-dotnet-core-education @ 2021.05.03](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases/tag/2021.05.03) (2 years ago)
