@@ -28,11 +28,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (today)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication  (1 week ago)
 - [mehdihadeli/e2e-test](https://github.com/mehdihadeli/e2e-test) (2 weeks ago)
 - [mehdihadeli/WebApplicationFactoryWithHost-Sample](https://github.com/mehdihadeli/WebApplicationFactoryWithHost-Sample) - This example demonstrate how to test web components using the WebApplicationFactory&lt;T&gt; class. (2 weeks ago)
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (2 weeks ago)
-- [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators (3 weeks ago)
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications. (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
