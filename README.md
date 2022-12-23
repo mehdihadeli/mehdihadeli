@@ -28,7 +28,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (2 days ago)
+- [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (3 days ago)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication  (2 weeks ago)
 - [mehdihadeli/e2e-test](https://github.com/mehdihadeli/e2e-test) (2 weeks ago)
 - [mehdihadeli/WebApplicationFactoryWithHost-Sample](https://github.com/mehdihadeli/WebApplicationFactoryWithHost-Sample) - This example demonstrate how to test web components using the WebApplicationFactory&lt;T&gt; class. (3 weeks ago)
@@ -37,7 +37,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.5](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.5) (1 week ago)
+- [FastEndpoints/FastEndpoints @ v5.5](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.5) (2 weeks ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (1 month ago)
 - [mehdihadeli/ecommerce-modular-monolith @ v1.0.1](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.1) (1 month ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (1 month ago)
