@@ -41,7 +41,6 @@
 - [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (1 month ago)
 - [mehdihadeli/ecommerce-modular-monolith @ v1.0.1](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.1) (1 month ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (1 month ago)
-- [mehdihadeli/awesome-dotnet-core-education @ 2021.05.03](https://github.com/mehdihadeli/awesome-dotnet-core-education/releases/tag/2021.05.03) (2 years ago)
 
 #### 📜 Latest blog posts
 - [Weekly .Net Tech Stack - #2](https://mehdihadeli.com/weekly2/) (2 years ago)
