@@ -28,16 +28,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies. (1 day ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 day ago)
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (1 day ago)
+- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies. (2 days ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 days ago)
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (2 days ago)
 - [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (1 week ago)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication  (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [FastEndpoints/FastEndpoints @ v5.5](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.5) (2 weeks ago)
+- [FastEndpoints/FastEndpoints @ v5.5](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.5) (3 weeks ago)
 - [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (1 month ago)
 - [mehdihadeli/ecommerce-modular-monolith @ v1.0.1](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.1) (1 month ago)
 - [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (2 months ago)
