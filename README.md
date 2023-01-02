@@ -32,7 +32,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 <h2 align="center">💻 Open Source Contributions</h2>
 
 <p align="center">
-  <samp>I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here is some of my works:</samp>
+  <samp>I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.</samp>
 </p>
 
 - 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
