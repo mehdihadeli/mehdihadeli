@@ -28,20 +28,21 @@ I'm a software engineer, specializing in backend development and distributed sys
  </a>
 </p>
 
-#### 👷 Check out what I'm currently working on
 
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies. (5 days ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (5 days ago)
-- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (5 days ago)
-- [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (1 week ago)
-- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication  (3 weeks ago)
+<h2 align="center">💻 Open Source Contributions</h2>
 
-#### 🌱 Trivia
-- 📝 I blog here: https://www.mehdihadeli.com
-- 💬 Ask me about Architecture Design, Microservices, DDD, Event Sourcing, CQRS, .NET Core, Golang
-- 📫 Follow me on Twitter [@mehdi_hadeli](https://twitter.com/mehdi_hadeli) and Linkedin [@MehdiHadeli](https://www.linkedin.com/in/mehdihadeli/)
-- 👯 I’m looking to collaborate on: Microservices projects
+<p align="center">
+  <samp>I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.</samp>
+</p>
 
+- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices): A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR): Official mobile app for DotNetRu.
+- ⚡ [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.Net 6 and newer.
+- 📙 [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi): Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
+- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+- 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith): A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
 ---
 
 <p align="center"> 
