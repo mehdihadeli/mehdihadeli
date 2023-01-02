@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
+I'm a software engineer with experience in building scalable and distributed systems using .NET, Golang. I love learning, sharing, and facing challenges. 
+Last but not least, I am also an open-source enthusiast.
+
 <p align="center"> 
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
@@ -33,18 +36,6 @@
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies. (5 days ago)
 - [mehdihadeli/dependecy-validation](https://github.com/mehdihadeli/dependecy-validation) (1 week ago)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication  (3 weeks ago)
-
-#### 🚀 Latest releases I've contributed to
-
-
-- [FastEndpoints/FastEndpoints @ v5.5](https://github.com/FastEndpoints/FastEndpoints/releases/tag/v5.5) (3 weeks ago)
-- [mehdihadeli/ecommerce-microservices @ v1.0.7](https://github.com/mehdihadeli/ecommerce-microservices/releases/tag/v1.0.7) (1 month ago)
-- [mehdihadeli/ecommerce-modular-monolith @ v1.0.1](https://github.com/mehdihadeli/ecommerce-modular-monolith/releases/tag/v1.0.1) (1 month ago)
-- [mehdihadeli/Go-MediatR @ v1.1.9](https://github.com/mehdihadeli/Go-MediatR/releases/tag/v1.1.9) (2 months ago)
-
-#### 📜 Latest blog posts
-- [Weekly .Net Tech Stack - #2](https://mehdihadeli.com/weekly2/) (2 years ago)
-- [Weekly .Net Tech Stack - #1](https://mehdihadeli.com/weekly1/) (2 years ago)
 
 #### 🌱 Trivia
 - 📝 I blog here: https://www.mehdihadeli.com
