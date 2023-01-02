@@ -8,8 +8,8 @@ I'm a software engineer, specializing in backend development and distributed sys
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
  </a>
-  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
+  <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
+   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://stackoverflow.com/users/581476" alt="mehdi hadeli's stackoverflow">
    <img src="https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge" />
