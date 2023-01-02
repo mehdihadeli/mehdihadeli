@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-I'm a software engineer with experience in building scalable and distributed systems using .NET, Golang. I love learning, sharing, and facing challenges. 
+I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using .NET, Golang. I love learning, sharing, and facing challenges. 
 Last but not least, I am also an open-source enthusiast.
 
 <p align="center"> 
