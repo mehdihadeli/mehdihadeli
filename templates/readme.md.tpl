@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
+I'm a software engineer with experience in building scalable and distributed systems using .NET, Golang. I love learning, sharing, and facing challenges. 
+Last but not least, I am also an open-source enthusiast.
+
 <p align="center"> 
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
@@ -30,18 +33,6 @@
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
-
-#### 🚀 Latest releases I've contributed to
-
-{{ range recentReleases 5 }}
-- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
-
-#### 📜 Latest blog posts
-
-{{- range rss "https://www.mehdihadeli.com/rss/" 3 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
 
 #### 🌱 Trivia
 - 📝 I blog here: https://www.mehdihadeli.com
