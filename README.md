@@ -81,7 +81,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 - 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices): A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
-- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR): Official mobile app for DotNetRu.
+- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR): Mediator pattern implementation in Golang and helpful in creating CQRS based applications.
 - ⚡ [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.Net 6 and newer.
 - 📙 [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi): Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
 - 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
