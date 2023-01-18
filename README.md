@@ -79,18 +79,11 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my contributions:
 </p>
 
-- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices): A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
-- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR): Mediator pattern implementation in Golang and helpful in creating CQRS based applications.
-- ⚡ [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.Net 6 and newer.
-- 📙 [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi): Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
-- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-- 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith): A practical e-commerce modular monolith sample, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
-
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
-</p>
-
+- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
+- 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices)
+- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)
+- ⚡ [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints)
+- 📙 [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
+- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+- 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith)
+- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application)
