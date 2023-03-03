@@ -20,7 +20,7 @@ I'm a software engineer, specializing in backend development and distributed sys
  <a href="https://www.linkedin.com/in/mehdihadeli" alt="mehdi hadeli's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
- <a href="https://www.mehdihadeli.com" alt="mehdi hadeli's blog">
+ <a href="https://mehdihadeli.netlify.app" alt="mehdi hadeli's blog">
    <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
  <a>
