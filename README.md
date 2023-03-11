@@ -101,3 +101,8 @@ I'm a software engineer, specializing in backend development and distributed sys
 - 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith)
 - 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application)
+
+<h2 align="center">🚀 Activities</h2>
+<p align="center">
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
+</p>
