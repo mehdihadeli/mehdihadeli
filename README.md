@@ -87,10 +87,10 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 <br/>
 
-<h2 align="center">💻 Open Source Contributions</h2>
+<h2 align="center">💻 Open Source Projects</h2>
 
 <p align="left">
-  I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my contributions:
+  I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
 </p>
 
 - 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
