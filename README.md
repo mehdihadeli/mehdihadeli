@@ -14,9 +14,6 @@ I'm a software engineer, specializing in backend development and distributed sys
   <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
    <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://stackoverflow.com/users/581476" alt="mehdi hadeli's stackoverflow">
-   <img src="https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge" />
- </a>
  <a href="https://github.com/mehdihadeli" alt="mehdi hadeli's github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
