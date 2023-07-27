@@ -94,16 +94,17 @@ I'm a software engineer, specializing in backend development and distributed sys
 </p>
 
 - 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
+- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+- 🎮 [mehdihadeli/leaderboard](https://github.com/mehdihadeli/game-leaderboard)
 - 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices)
 - 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)
 - ⚡ [FastEndpoints/FastEndpoints - Contributer](https://github.com/FastEndpoints/FastEndpoints)
 - 🐉 [mehdihadeli/vertical-slice-api-template](https://github.com/mehdihadeli/vertical-slice-api-template)
 - 📙 [davidfowl/TodoApi - Contributer](https://github.com/davidfowl/TodoApi)
-- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith)
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application)
 - 🧪 [mehdihadeli/tdd-sample](https://github.com/mehdihadeli/tdd-sample)
-- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template)
+- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template
+- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application))
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
