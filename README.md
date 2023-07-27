@@ -103,8 +103,8 @@ I'm a software engineer, specializing in backend development and distributed sys
 - 📙 [davidfowl/TodoApi - Contributer](https://github.com/davidfowl/TodoApi)
 - 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith)
 - 🧪 [mehdihadeli/tdd-sample](https://github.com/mehdihadeli/tdd-sample)
-- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application))
+- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template)
+- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application)
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
