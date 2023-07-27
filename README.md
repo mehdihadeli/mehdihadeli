@@ -95,7 +95,6 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 - 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
 - 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-- 🎮 [mehdihadeli/game-leaderboard](https://github.com/mehdihadeli/game-leaderboard)
 - 🧺 [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices)
 - 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)
 - ⚡ [FastEndpoints/FastEndpoints - Contributer](https://github.com/FastEndpoints/FastEndpoints)
