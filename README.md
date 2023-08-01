@@ -93,8 +93,8 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
 </p>
 
-- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
-- 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices)
+- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical e-commerce microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices): Implementation of a imaginary Game Leader Board application, based on Event Driven Architecture, Vertical Slice Architecture, Event Sourcing with EventStoreDB, Redis SortedSet, Redis Pub/Sub, SignalR and .Net 8.
 - 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 - 🧺 [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices)
 - 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)
