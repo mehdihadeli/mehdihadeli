@@ -93,7 +93,7 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
 </p>
 
-- 🌀 [mehdihadeli/dotnet-microservices-sample](https://github.com/mehdihadeli/dotnet-microservices-sample): A practical microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- 🍔 [food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices): A practical food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - ❄️ [mehdihadeli/go-microservices-sample](https://github.com/mehdihadeli/go-microservices-sample): A practical microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices): Implementation of a imaginary Game Leader Board application, based on Event Driven Architecture, Vertical Slice Architecture, Event Sourcing with EventStoreDB, Redis SortedSet and Pub/Sub, SignalR and .Net 8.
 - 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
