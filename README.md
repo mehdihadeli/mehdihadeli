@@ -29,8 +29,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 </p>
 
 <div style="text-align: center"> 
-<img src="./assets/mvp.jpg"style="vertical-align:top;margin:4px;;display: block; margin:auto"
-           width="270" height="100" >
+<img src="./assets/mvp.jpg" style="vertical-align:top; display: block; margin:auto" width="270" height="100" >
 </div>
 
 <h2 align="center">🛠 Technologies & Skils</h2>
