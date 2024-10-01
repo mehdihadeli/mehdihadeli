@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source contributor.
+I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am a Microsoft MVP and open-source contributor.
 
 <p align="center"> 
  <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
@@ -27,6 +27,11 @@ I'm a software engineer, specializing in backend development and distributed sys
    <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
+
+<div style="text-align: center"> 
+<img src="./assets/mvp.jpg"style="vertical-align:top;margin:4px;;display: block; margin:auto"
+           width="270" height="100" >
+</div>
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 
