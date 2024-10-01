@@ -28,9 +28,9 @@ I'm a software engineer, specializing in backend development and distributed sys
  </a>
 </p>
 
-<div style="text-align: center"> 
-<img src="./assets/mvp.jpg" width="270" height="100" >
-</div>
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/6224008"><img alt="Microsoft Most Valuable Professional (MVP)" width="270" height="100" src="./assets/mvp.jpg"/></a>
+</p>
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 
