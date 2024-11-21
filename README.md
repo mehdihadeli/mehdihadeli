@@ -97,7 +97,7 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open-source contributions that also help me expand my knowledge and work with other developers and teams globally. here are some of my projects:
 </p>
 
-- 💻 [mehdihadeli/AIAssist](https://github.com/mehdihadeli/AIAssist/): AI coding assistant inside terminal to help in code development, code explanation, code refactor and review and chat with supporting local and online language models.
+- 💻 [mehdihadeli/AIAssist](https://github.com/mehdihadeli/AIAssist/): AI coding assistant inside terminal to help in code development, code explanation, code refactor and review, bug fix and chat with supporting local and online language models.
 - 🍔 [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices): A practical and imaginary food delivery microservices, built with .Net 8, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - 🍕 [mehdihadeli/go-food-delivery-microservices](https://github.com/mehdihadeli/go-food-delivery-microservices): A practical and imaginary food delivery microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices): Implementation of a imaginary Game Leader Board application, based on Event Driven Architecture, Vertical Slice Architecture, Event Sourcing with EventStoreDB, Redis SortedSet and Pub/Sub, SignalR and .Net 8.
