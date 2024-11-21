@@ -97,6 +97,7 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open-source contributions that also help me expand my knowledge and work with other developers and teams globally. here are some of my projects:
 </p>
 
+- 💻 [mehdihadeli/AIAssist](https://github.com/mehdihadeli/AIAssist/): AI assistant for coding, chat, code explanation, review with supporting local and online llms
 - 🍔 [food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices): A practical and imaginary food delivery microservices, built with .Net 8, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - 🍕 [go-food-delivery-microservices](https://github.com/mehdihadeli/go-food-delivery-microservices): A practical and imaginary food delivery microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices): Implementation of a imaginary Game Leader Board application, based on Event Driven Architecture, Vertical Slice Architecture, Event Sourcing with EventStoreDB, Redis SortedSet and Pub/Sub, SignalR and .Net 8.
@@ -108,7 +109,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 - 📙 [davidfowl/TodoApi - Contributor](https://github.com/davidfowl/TodoApi): Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication.
 - 🌭 [mehdihadeli/food-delivery-modular-monolith](https://github.com/mehdihadeli/food-delivery-modular-monolith): A practical and imaginary food delivery modular monolith, built with .Net 8, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - 🧪 [mehdihadeli/tdd-sample](https://github.com/mehdihadeli/tdd-sample): A sample project demonstrating Test-Driven Development (TDD) using .Net 8 and Vertical Slice Architecture based on Minimal APIs in .NET Core
-- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template): A Golang boilerplate template, based on Vertical Slice Architecture and CQRS pattern with using Echo, Gorm, Zap, Viper, MediatR for CQRS and sarulabs/di for Dependency Injection.
+- 💎 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template): A Golang boilerplate template, based on Vertical Slice Architecture and CQRS pattern with using Echo, Gorm, Zap, Viper, MediatR for CQRS and sarulabs/di for Dependency Injection.
 - 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
 
 <h2 align="center">🚀 Activities</h2>
