@@ -5,9 +5,6 @@
 I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am a Microsoft MVP and open-source contributor.
 
 <p align="center"> 
- <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
-   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
- </a>
  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
  </a>
