@@ -8,9 +8,6 @@ I'm a software engineer, specializing in backend development and distributed sys
  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
  </a>
-  <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
-   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
- </a>
  <a href="https://github.com/mehdihadeli" alt="mehdi hadeli's github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
