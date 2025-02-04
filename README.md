@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-I'm a senior software engineer and technical lead, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. I am an active open-source contributor and working on numerous open source projects in the GitHub. 
+I'm a senior software engineer and technical lead, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. I am an active open-source developer and working on numerous open source projects in the GitHub. 
 
 Also, I’m honored to be recognized as a Microsoft MVP, an award from Microsoft that highlights my technical expertise and contributions to the .NET and open source community.
 
