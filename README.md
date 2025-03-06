@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-I'm a senior software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Java and Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. I am an active open-source developer, working on over 20 open-source projects and libraries on GitHub.
+I am a Senior Software Engineer, Open-Source Developer and Microsoft MVP in Developer Technologies with over 13 years of experience in the tech industry. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through Open-Source projects, blogging, public speaking and training.
 
 <p align="center"> 
  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
