@@ -4,8 +4,6 @@
 
 I'm a senior software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Java and Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. I am an active open-source developer, working on over 20 open-source projects and libraries on GitHub.
 
-Also, I am honored to be recognized as a Microsoft MVP, an award from Microsoft that highlights my technical expertise and contributions to the .NET and open-source communities.
-
 <p align="center"> 
  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
