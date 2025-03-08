@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-I am a Software Architect, Open-Source Contributor and Microsoft MVP in Developer Technologies with over 13 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through Open-Source projects, blogging, public speaking and training.
+I am a Software Architect, Open Source Developer and Microsoft MVP in Developer Technologies with over 13 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through open-source projects, blogging, public speaking and training.
 
 <p align="center"> 
  <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
