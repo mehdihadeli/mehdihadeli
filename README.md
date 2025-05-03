@@ -78,10 +78,6 @@ I am a Software Architect, Open Source Developer with over 13 years of experienc
             width="64" height="64" alt="kafka" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            height="54" alt="javascript" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
