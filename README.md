@@ -37,8 +37,16 @@ I am a Software Architect, Open Source Developer with over 13 years of experienc
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
             width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
+    <a href="https://www.java.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java"
+            width="54" height="54" style="vertical-align:top; margin:4px;">
+    </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
+            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
+    </a>
+     <a href="https://spring.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="54"
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
