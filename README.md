@@ -1,4 +1,3 @@
-![](assets/header.png)
 
 <h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
