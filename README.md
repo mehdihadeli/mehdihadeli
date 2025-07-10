@@ -21,10 +21,6 @@ I am a Software Architect, Open Source Developer with over 13 years of experienc
  </a>
 </p>
 
-<p align="center">
-  <a href="https://mvp.microsoft.com/en-us/PublicProfile/6224008"><img alt="Microsoft Most Valuable Professional (MVP)" width="240" height="90" src="./assets/mvp.jpg"/></a>
-</p>
-
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
