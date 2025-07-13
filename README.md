@@ -102,8 +102,8 @@ I am a Software Architect, Open Source Developer with over 13 years of experienc
 - 💎 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template): A Golang boilerplate template, based on Vertical Slice Architecture and CQRS pattern with using Echo, Gorm, Zap, Viper, Go-MediatR for CQRS and Dig for Dependency Injection.
 - 📬 [mehdihadeli/java-mediator](https://github.com/mehdihadeli/java-mediator): A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
 - ⚡ [FastEndpoints/FastEndpoints - Contributor](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.Net 6 and newer.
-- 🌭 [mehdihadeli/food-delivery-modular-monolith](https://github.com/mehdihadeli/food-delivery-modular-monolith): A practical and imaginary food delivery modular monolith, built with .Net 8, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
+- 🌭 [mehdihadeli/food-delivery-modular-monolith](https://github.com/mehdihadeli/food-delivery-modular-monolith): A practical and imaginary food delivery modular monolith, built with .Net 9, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 9, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
